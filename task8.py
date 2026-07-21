@@ -35,10 +35,6 @@ while True:
         print("Goodbye!")
         break
 
-# What is the function of break & continue? 
-# break: A statement that immediately stops a loop and exits it, even if there are more iterations left.
-# continue: A statement that skips the rest of the current iteration of a loop and continues with the next iteration.
-
 #Tayef(L) : Wrote the space input response
 #Mohim: Wrote point calculation
 #Soumyajit: Wrote Password Strength Determination
