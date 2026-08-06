@@ -1,3 +1,5 @@
-# CodeTitans
-  Project of the task no.8
-  PassWord Strength Checker in Python 3.14.4
+Team:
+  CodeTitans
+Projects:
+  1. Password Strength Checker
+  2. Student Result Management System
